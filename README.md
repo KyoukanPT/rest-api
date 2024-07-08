@@ -1,4 +1,4 @@
-<h2>REST APIp</h2>
+<h2>REST API</h2>
 
 <p>Instructions on how to download the source files and use the App: </p>
 
@@ -27,3 +27,5 @@
 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
 
 <hr>
+
+<h3>How to use the App?</h3>
