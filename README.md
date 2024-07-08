@@ -25,7 +25,15 @@
 - npm install <a href="https://ejs.co/"> EJS </a> <br>
 - npm install <a href="https://axios-http.com/docs/intro"> Axios </a> <br>
 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
-- node index.js
+
+<hr>
+
+<h3>Setup before using the App</h3>
+<h4> For the following steps, you'll need to use <a href="https://www.postman.com/downloads/"> Postman </a> for API testing. </h4>
+<p> - Register your user with a username and password (Check API documentation). </p>
+<p> - Generate a Bearer Token (Check API documentation). </p>
+<p> - After doing all the above steps, replace the placeholder value on line 9.  </p>
+<p> - Start your server with the following command on your terminal: <b>node index.js</b> .</p>
 
 <hr>
 
