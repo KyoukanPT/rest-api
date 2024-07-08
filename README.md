@@ -41,5 +41,6 @@
 <p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
 <p> - Testing "GET" > Fill in the <b>Id</b> and click on the "GET" button to generate the respective secret. </p>
 <p> - Testing "POST" > Fill in the <b>Secret</b>, the <b>Score</b> and click on the "POST" button to generate a new secret. </p>
-<p> - Testing "PUT" > Fill in the <b>Id</b>. Then, you have the option to fill in the <b>Secret</b> and/or the <b>Score</b>. "PUT" will fully replace the edited <b>Id</b>. Which means that if you don't fill the <b>Secret</b> or <b>Score</b>, it won't be saved in the API.</b>
-<p> - Testing "PATCH" > Fill in the <b>Id</b>. Then, you have the option to fill in the <b>Secret</b> and/or the <b>Score</b>. The non-updated option(s) will be returned with the already saved data from the API. The updated option(s), will update the data from the API. </p>
+<p> - Testing "PUT" > Fill in the <b>Id</b>. Then, you have the option to fill in the <b>Secret</b> and/or the <b>Score</b>. "PUT" will fully replace the edited <b>Id</b>. Which means that if you don't fill the <b>Secret</b> or <b>Score</b>, it won't be saved in the API. Don't forget to click on the "PUT" button to replace the data from the selected <b>Id</b>.</p>
+<p> - Testing "PATCH" > Fill in the <b>Id</b>. Then, you have the option to fill in the <b>Secret</b> and/or the <b>Score</b>. The non-updated option(s) will be returned with the already saved data from the API. The updated option(s), will update the data from the API. Don't forget to click on the "PATCH" button to update the selected <b>Id</b>.</p>
+<p> - Testing "DELETE" > Fill in the <b>Id</b> and click on the "DELETE" button to delete everything from the selected <b>Id</b></p>
