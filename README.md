@@ -29,7 +29,7 @@
 <hr>
 
 <h3>Setup before using the App</h3>
-<h4> For the following steps, you'll need to use <a href="https://www.postman.com/downloads/"> Postman </a> for API testing. </h4>
+<h4> For the first 2 steps, you'll need to use <a href="https://www.postman.com/downloads/"> Postman </a> for API testing. </h4>
 <p> - Register your user with a username and password (Check API documentation). </p>
 <p> - Generate a Bearer Token (Check API documentation). </p>
 <p> - After doing all the above steps, replace the placeholder value on line 9.  </p>
